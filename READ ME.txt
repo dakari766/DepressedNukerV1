@@ -1,0 +1,7 @@
+Instructions will be posted below on how 2 use the bot.
+
+1. Open config.json and put in the bot token and prefix
+2. Open Nuker.exe and fill in what it says
+3. Enjoy nuking!
+
+Lmk if theres any trouble! Discord is ahmed911#6053
