@@ -1,2 +1,2 @@
 # DepressedNukerV1
-suck ur mum lol
+download it as zip then extract and read readme.txt
